@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/movie-junction/static/css/main.64742f1b.css",
+    "main.js": "/movie-junction/static/js/main.01f94007.js",
+    "static/js/787.7c42db31.chunk.js": "/movie-junction/static/js/787.7c42db31.chunk.js",
+    "index.html": "/movie-junction/index.html",
+    "main.64742f1b.css.map": "/movie-junction/static/css/main.64742f1b.css.map",
+    "main.01f94007.js.map": "/movie-junction/static/js/main.01f94007.js.map",
+    "787.7c42db31.chunk.js.map": "/movie-junction/static/js/787.7c42db31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64742f1b.css",
+    "static/js/main.01f94007.js"
+  ]
+}
